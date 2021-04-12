@@ -2,8 +2,8 @@ Introduction
 ============
 
 
-.. image:: https://readthedocs.org/projects/circuitpython-color_picker/badge/?version=latest
-    :target: https://circuitpython-color_picker.readthedocs.io/
+.. image:: https://readthedocs.org/projects/circuitpython-color-picker/badge/?version=latest
+    :target: https://circuitpython-color-picker.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
 
