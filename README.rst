@@ -34,8 +34,10 @@ or individual libraries can be installed using
 Usage Example
 =============
 
-.. todo:: Add a quick, simple example. It and other examples should live in the
-examples folder and be included in docs/examples.rst.
+Please see the ``displayio_color_picker_simlpetest.py`` example for initial reference
+
+.. image:: https://raw.githubusercontent.com/jposada202020/CircuitPython_color_picker/main/docs/color_picker.png
+
 
 Contributing
 ============
