@@ -34,7 +34,7 @@ or individual libraries can be installed using
 Usage Example
 =============
 
-Please see the ``displayio_color_picker_simlpetest.py`` example for initial reference
+Please see the ``color_picker_simlpetest.py`` example for initial reference
 
 .. image:: https://raw.githubusercontent.com/jposada202020/CircuitPython_color_picker/main/docs/color_picker.png
 
