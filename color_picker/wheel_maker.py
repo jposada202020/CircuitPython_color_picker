@@ -39,6 +39,7 @@ except ImportError:
     pass
 
 # pylint: disable=invalid-name, no-member, too-many-locals
+# pylint: disable=consider-using-with, duplicate-code
 
 
 def _write_bmp_header(output_file, filesize):

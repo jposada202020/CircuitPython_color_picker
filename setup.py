@@ -32,7 +32,7 @@ setup(
     url="https://github.com/jposada202020/CircuitPython_color_picker.git",
     # Author details
     author="Jose David M.",
-    author_email="",
+    author_email="colorpicker@mailmeto.mozmail.com",
     install_requires=["Adafruit-Blinka"],
     # Choose your license
     license="MIT",

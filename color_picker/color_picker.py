@@ -111,7 +111,8 @@ class ColorPicker(Widget, Control):
     """
 
     # pylint: disable=too-many-lines, too-many-instance-attributes, too-many-arguments
-    # pylint: disable=too-many-locals, too-many-statements
+    # pylint: disable=too-many-locals, too-many-statements, consider-using-with
+    # pylint: disable=duplicate-code
 
     def __init__(
         self,
@@ -122,9 +123,7 @@ class ColorPicker(Widget, Control):
         **kwargs,
     ):
 
-        Widget.__init__(
-            self, x=x, y=y, height=image_size, width=image_size, **kwargs, max_size=4
-        )
+        Widget.__init__(self, x=x, y=y, height=image_size, width=image_size, **kwargs)
         Control.__init__(self)
 
         self._file = open(filename, "rb")

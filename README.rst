@@ -16,7 +16,7 @@ Introduction
     :target: https://github.com/psf/black
     :alt: Code Style: Black
 
-Color Picker for CircuitPython
+Color Picker for CircuitPython. Allows to pick a color directly from CircuitPython, giving you the color information.
 
 
 Dependencies

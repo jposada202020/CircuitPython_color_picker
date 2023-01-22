@@ -37,7 +37,7 @@ my_colorpicker = color_picker.ColorPicker(
     display.height // 2 - imagesize_used // 2,
     imagesize_used,
 )
-my_group = Group(max_size=4)
+my_group = Group()
 my_group.append(my_colorpicker)
 
 palette = Palette(2)
