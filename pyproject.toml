@@ -17,7 +17,7 @@ readme = "README.rst"
 authors = [
     {name = "Jose D. Montoya", email = "colorpicker@mailmeto.mozmail.com"}
 ]
-urls = {Homepage = "https://github.com/jposada202020/CircuitPython_color_picker.git"}
+urls = {Homepage = "https://github.com/jposada202020/CircuitPython_color_picker"}
 keywords = [
     "hardware",
     "micropython",
@@ -42,7 +42,7 @@ classifiers = [
 dynamic = ["dependencies", "optional-dependencies"]
 
 [tool.setuptools]
-py-modules = ["CircuitPython_Color-Picker"]
+py-modules = ["CircuitPython_Color_Picker"]
 
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}
