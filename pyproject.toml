@@ -17,7 +17,7 @@ readme = "README.rst"
 authors = [
     {name = "Jose D. Montoya", email = "colorpicker@mailmeto.mozmail.com"}
 ]
-urls = {Homepage = "https://github.com/jposada202020/CircuitPython_color_picker"}
+urls = {Homepage = "https://github.com/jposada202020/CircuitPython_color_picker.git"}
 keywords = [
     "hardware",
     "micropython",
