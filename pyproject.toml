@@ -10,7 +10,7 @@ requires = [
 ]
 
 [project]
-name = "circuitpython-ColorWheelPicker"
+name = "circuitpython-ColorPicker"
 description = "Colopicker en CircuitPython for TFT displays"
 version = "0.0.0+auto.0"
 readme = "README.rst"
@@ -42,7 +42,7 @@ classifiers = [
 dynamic = ["dependencies", "optional-dependencies"]
 
 [tool.setuptools]
-py-modules = ["CircuitPython_ColorWheel_Picker"]
+py-modules = ["CircuitPython_Color_Picker"]
 
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}
