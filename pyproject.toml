@@ -10,7 +10,7 @@ requires = [
 ]
 
 [project]
-name = "circuitpython-ColorPicker"
+name = "circuitpython-Color-Picker"
 description = "Colopicker en CircuitPython for TFT displays"
 version = "0.0.0+auto.0"
 readme = "README.rst"
