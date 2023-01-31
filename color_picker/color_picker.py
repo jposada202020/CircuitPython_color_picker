@@ -36,9 +36,7 @@ from adafruit_displayio_layout.widgets.control import Control
 
 
 __version__ = "0.0.0-auto.0"
-__repo__ = (
-    "https://github.com/adafruit/Adafruit_CircuitPython_DisplayIO_Color_Picker.git"
-)
+__repo__ = "https://github.com/jposada202020/CircuitPython_color_picker.git"
 
 # pylint: disable=missing-class-docstring, too-few-public-methods
 
