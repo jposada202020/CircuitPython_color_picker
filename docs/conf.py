@@ -34,6 +34,7 @@ autodoc_mock_imports = [
     "storage",
     "adafruit_display_text",
     "displayio",
+    "adafruit_displayio_layout",
 ]
 
 
