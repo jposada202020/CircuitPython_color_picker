@@ -46,13 +46,6 @@ Please see the ``color_picker_simlpetest.py`` example for initial reference
 .. image:: https://raw.githubusercontent.com/jposada202020/CircuitPython_color_picker/main/docs/color_picker.png
 
 
-Contributing
-============
-
-Contributions are welcome! Please read our `Code of Conduct
-<https://github.com/jposada202020/CircuitPython_color_picker/blob/main/CODE_OF_CONDUCT.md>`_
-before contributing to help this project stay welcoming.
-
 Documentation
 =============
 

@@ -26,11 +26,3 @@ Table of Contents
 
     Download <https://github.com/jposada202020/CircuitPython_color_picker/releases/latest>
     CircuitPython Reference Documentation <https://circuitpython.readthedocs.io>
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

@@ -42,7 +42,7 @@ classifiers = [
 dynamic = ["dependencies", "optional-dependencies"]
 
 [tool.setuptools]
-py-modules = ["CircuitPython_Color_Picker"]
+packages = ["color_picker"]
 
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}
